@@ -1,0 +1,127 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.big_box{
+    margin: 25px;
+    padding: 10px;
+    height: 690px;
+    width: 1370px;
+}
+.upper{
+    width: 100%;
+    height: 69%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.academics{
+    height: 92%;
+    width: 32%;
+    margin: 5px;
+    background-image: url("pink wallpaper.jpeg");
+    background-size: cover;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 1000;
+    border-top-left-radius: 15px;
+    
+}
+
+.academics_para{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.box2{
+    height: 100%;
+    width: 33%;
+    margin: 5px;
+}
+
+.contact{
+    height: 43%;
+    background-color: #9d65c9;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Brush Script MT';
+    font-size: 40px;
+}
+
+.name{
+    height: 55%;
+    background-image:url("name background.png");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Brush Script MT';
+    font-size: 70px;
+    color: white;
+}
+
+.hidden{
+    height: 100%;
+    width: 33%;
+    margin: 5px;
+    background-color: #9089ea;
+    border-top-right-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+
+.lower{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.work{
+    height: 85%;
+    width: 60%;
+    margin: 5px;
+    padding: 15px;
+    padding-left: 40px;
+    font-size: 20px;
+    background-color: #5d54a4;
+    border-bottom-left-radius: 15px;
+}
+
+.a_clonegit a{
+    color: black;
+    text-decoration: none;
+}
+
+.a_clonegit a:hover{
+    text-decoration: underline;
+}
+
+.ff_box{
+    height: 85%;
+    width: 40%;
+    margin: 5px;
+    padding: 15px;
+    background-color: #d789d7;
+    border-bottom-right-radius: 15px;
+}
+.ff_head{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight:1000;
+}
+.ff_para{
+    text-align: justify;
+    font-size: 13px;
+    font-family: cursive;
+}
